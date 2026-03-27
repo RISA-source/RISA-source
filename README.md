@@ -5,7 +5,7 @@
 ▐      /$$$$$$$  /$$$$$$  /$$$$$$   /$$$$$$                               ▌  # Doing Projects which seem interesting.
 ▐     | $$__  $$|_  $$_/ /$$__  $$ /$$__  $$                              ▌
 ▐     | $$  \ $$  | $$  | $$  \__/| $$  \ $$                              ▌  # Networking, Operating Systems,  
-▐     | $$$$$$$/  | $$  |  $$$$$$ | $$$$$$$$       /$$$$$$                ▌    Infrastructure Tools, AI Research,Bytecodes, 
+▐     | $$$$$$$/  | $$  |  $$$$$$ | $$$$$$$$       /$$$$$$                ▌    Infrastructure Tools, AI Research, Bytecodes, 
 ▐     | $$__  $$  | $$   \____  $$| $$__  $$      |______/                ▌    and more upcoming as I explore.
 ▐     | $$  \ $$  | $$   /$$  \ $$| $$  | $$                              ▌  
 ▐     | $$  | $$ /$$$$$$|  $$$$$$/| $$  | $$                              ▌
