@@ -4,20 +4,20 @@
 ▐                                                                         ▌
 ▐      /$$$$$$$  /$$$$$$  /$$$$$$   /$$$$$$                               ▌  # Doing Projects which seem interesting.
 ▐     | $$__  $$|_  $$_/ /$$__  $$ /$$__  $$                              ▌
-▐     | $$  \ $$  | $$  | $$  \__/| $$  \ $$                              ▌  # Networking, Operating Systems, Infrastructure Tools, AI Research, 
-▐     | $$$$$$$/  | $$  |  $$$$$$ | $$$$$$$$       /$$$$$$                ▌    Bytecodes, and more upcoming as I explore.
-▐     | $$__  $$  | $$   \____  $$| $$__  $$      |______/                ▌
+▐     | $$  \ $$  | $$  | $$  \__/| $$  \ $$                              ▌  # Networking, Operating Systems,  
+▐     | $$$$$$$/  | $$  |  $$$$$$ | $$$$$$$$       /$$$$$$                ▌    Infrastructure Tools, AI Research,Bytecodes, 
+▐     | $$__  $$  | $$   \____  $$| $$__  $$      |______/                ▌    and more upcoming as I explore.
 ▐     | $$  \ $$  | $$   /$$  \ $$| $$  | $$                              ▌  
 ▐     | $$  | $$ /$$$$$$|  $$$$$$/| $$  | $$                              ▌
 ▐     |__/  |__/|______/ \______/ |__/  |__/                              ▌
 ▐                                                                         ▌
 ▐                                                                         ▌
-▐       /$$$$$$$  /$$$$$$  /$$   /$$  /$$$$$$   /$$$$$$$  /$$$$$$         ▌  # Random projects pop out sometimes as I explore and majorly due to
-▐      /$$_____/ /$$__  $$| $$  | $$ /$$__  $$ /$$_____/ /$$__  $$        ▌    AI accelerated research, creating feels more fun these days.
-▐     |  $$$$$$ | $$  \ $$| $$  | $$| $$  \__/| $$      | $$$$$$$$        ▌
-▐      \____  $$| $$  | $$| $$  | $$| $$      | $$      | $$_____/        ▌  # Looking forward to collaborations and discussions. 
-▐      /$$$$$$$/|  $$$$$$/|  $$$$$$/| $$      |  $$$$$$$|  $$$$$$$        ▌
-▐     |_______/  \______/  \______/ |__/       \_______/ \_______/        ▌
+▐       /$$$$$$$  /$$$$$$  /$$   /$$  /$$$$$$   /$$$$$$$  /$$$$$$         ▌  # Random projects pop out sometimes as I 
+▐      /$$_____/ /$$__  $$| $$  | $$ /$$__  $$ /$$_____/ /$$__  $$        ▌    explore and majorly due to AI accelerated 
+▐     |  $$$$$$ | $$  \ $$| $$  | $$| $$  \__/| $$      | $$$$$$$$        ▌    research, creating feels more fun these days.
+▐      \____  $$| $$  | $$| $$  | $$| $$      | $$      | $$_____/        ▌   
+▐      /$$$$$$$/|  $$$$$$/|  $$$$$$/| $$      |  $$$$$$$|  $$$$$$$        ▌  # Looking forward to collaborations and 
+▐     |_______/  \______/  \______/ |__/       \_______/ \_______/        ▌    discussions.
 ▐                                                                         ▌
 ▐                                                                         ▌
 ▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
